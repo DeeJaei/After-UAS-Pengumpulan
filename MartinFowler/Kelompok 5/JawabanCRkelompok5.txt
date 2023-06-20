@@ -1,0 +1,5 @@
+Masalah tersebut pada 'printPilihanOperasi' penggunaan if else. solusinya yaitu menggunakan polimorfisme untuk menghilangkan if else dan menggunakan method 'pilihanOperasi()' setelah itu diimplementasikan kepada masing-masing subclass. 
+
+Temporary Field
+
+Pada code tersebut terdapat totalPrice sebagai constructor yang di gunakan pada getTotalPrice namun variabel tersebut hanya digunakan untuk sementara. solusinya memindahkan totalPrice kedalam getTotalPrice sehingga menjadi variabel lokaldan digunakan pada method tersebut.               

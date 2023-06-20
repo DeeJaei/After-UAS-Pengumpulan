@@ -1,0 +1,14 @@
+PRIMITIVE OBSESSION
+Weapon sama weapontype dibikin class sendiri
+ini membuatnya lebih simple dan tidak memakan space lbh banyak
+
+bikin class sendiri untuk weapon dan weapontype, lalu pergantian dilaksanakan untuk code yang di characterlist etc.
+
+
+Di public character jadi this. Weapon = new weapon (weapon, weapontype) 
+(salah satu contoh yang membuatnya ganti)
+
+untuk armor, sama saja, karena weapon dan weapontype sama saja dengan armor dan armortype
+maka solusi yang sama dapat digunakan untuk armor dan armortype
+
+buatlah class yang baru, lalu perbuatlah pergantian yang perlu dilaksanakan untuk variable yang diluar class yang baru

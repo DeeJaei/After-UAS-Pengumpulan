@@ -1,0 +1,10 @@
+di dalam class customer, ada credit, yaitu melakukan tugas lain
+
+class tersebeut dapat termasuk di dalam large class, yaitu satu class yang memiliki lebih dari satu fungsi
+
+ini tidak efisien, jadi kita membuat kelas yang baru untuk memisahkan tugas bagi kelas-kelas yang lain
+
+kita pertama membuat creidt class, dan menginsert semua variable credit dan fungsi credit
+yang tadinya ada di dalam customer class
+
+ini membuat dua fungsi yang berbeda, dan lebih mudah jika ada fungsi yang ingin digunakan ulang

@@ -1,0 +1,7 @@
+Data Clumps
+
+Hapus variabel rentStart dan rentEnd di class Movies karena variabel tersebut sudah ada pada class Rental. Lalu, kami membuat class baru bernama RentDuration untuk menggantikan start dan end pada class Rent Kami juga mengubah movieName pada class Rental menjadi object Movie.
+
+Long Parameter
+
+Method balanceNotif pada class WalletNotification memiliki parameter yang terlalu panjang. jadi, parameter name, email, dan current saya ganti menjadi object user.
